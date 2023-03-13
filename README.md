@@ -1,4 +1,4 @@
-### Hi, I'm Khumoyun Mukhammadjonov <iframe src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J">via GIPHY</a></p>
+### Hi, I'm Khumoyun Mukhammadjonov <img src="https://media1.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=ecf05e47tz2d3d0cq7wofhmpvmjgau7x4nvnv4d07zyauc5d&rid=giphy.gif&ct=g" alt="gif">
 
 <!--
 **khumoyunmukhammadjonov/khumoyunmukhammadjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
