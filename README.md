@@ -1,4 +1,4 @@
-### Hi, I'm Khumoyun Mukhammadjonov <img src="https://media1.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=ecf05e47tz2d3d0cq7wofhmpvmjgau7x4nvnv4d07zyauc5d&rid=giphy.gif&ct=g" alt="gif" width="100px">
+### Hi, I'm Khumoyun Mukhammadjonov <div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **khumoyunmukhammadjonov/khumoyunmukhammadjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
