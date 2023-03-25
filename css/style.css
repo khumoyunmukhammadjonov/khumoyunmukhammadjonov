@@ -1,0 +1,46 @@
+
+.vl {
+    border-left: 3px solid rgba(0, 0, 0, 0.2);
+    height: 200px;
+    margin-right: 1rem;
+    padding-left: 1rem;
+  }
+  
+/* Add some additional styles to the card */
+.card {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  /* Add the hover animation */
+  .card:hover .card-body {
+    transform: translateY(-10px);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Add the fade-in animation */
+  .card-wrap {
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  
+
+.form-check-input.form-range {
+    width: 51px;
+    height: 31px;
+    border-radius: 16px;
+}
+
+
